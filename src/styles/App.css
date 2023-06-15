@@ -3,10 +3,20 @@ h1 {
     text-align: center;
     }
     
+input{
+    font-size: 2rem;
+    background-color: black;
+    color: white;
+    height: 4rem;
+    width: 20rem;
+}
 
 button{
     color: #27aedb;
+    font-size: 2rem;
     text-align: center;
     justify-content: center;
     align-items: center;
+    width: 4rem;
+    height: 4rem;
 }
